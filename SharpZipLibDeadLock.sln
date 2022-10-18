@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpZipLibDeadLock", "SharpZipLibDeadLock.csproj", "{ADCAC205-BF12-4942-9167-CA94C8A9824F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCAC205-BF12-4942-9167-CA94C8A9824F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCAC205-BF12-4942-9167-CA94C8A9824F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCAC205-BF12-4942-9167-CA94C8A9824F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCAC205-BF12-4942-9167-CA94C8A9824F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992FD0E0-5BB2-4067-8C95-E40CD6B667CF}
+	EndGlobalSection
+EndGlobal
